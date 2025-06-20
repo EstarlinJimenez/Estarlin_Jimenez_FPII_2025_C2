@@ -1,0 +1,7 @@
+C:\Users\estar\source\repos\programacionFPII\programacionFPII\bin\Debug\programacionFPII.exe.config
+C:\Users\estar\source\repos\programacionFPII\programacionFPII\bin\Debug\programacionFPII.exe
+C:\Users\estar\source\repos\programacionFPII\programacionFPII\bin\Debug\programacionFPII.pdb
+C:\Users\estar\source\repos\programacionFPII\programacionFPII\obj\Debug\programacionFPII.csproj.AssemblyReference.cache
+C:\Users\estar\source\repos\programacionFPII\programacionFPII\obj\Debug\programacionFPII.csproj.CoreCompileInputs.cache
+C:\Users\estar\source\repos\programacionFPII\programacionFPII\obj\Debug\programacionFPII.exe
+C:\Users\estar\source\repos\programacionFPII\programacionFPII\obj\Debug\programacionFPII.pdb
