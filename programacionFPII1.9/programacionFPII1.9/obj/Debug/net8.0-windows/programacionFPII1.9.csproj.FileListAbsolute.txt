@@ -1,0 +1,16 @@
+C:\Users\estar\source\repos\programacionFPII1.9\programacionFPII1.9\bin\Debug\net8.0-windows\programacionFPII1.9.exe
+C:\Users\estar\source\repos\programacionFPII1.9\programacionFPII1.9\bin\Debug\net8.0-windows\programacionFPII1.9.deps.json
+C:\Users\estar\source\repos\programacionFPII1.9\programacionFPII1.9\bin\Debug\net8.0-windows\programacionFPII1.9.runtimeconfig.json
+C:\Users\estar\source\repos\programacionFPII1.9\programacionFPII1.9\bin\Debug\net8.0-windows\programacionFPII1.9.dll
+C:\Users\estar\source\repos\programacionFPII1.9\programacionFPII1.9\bin\Debug\net8.0-windows\programacionFPII1.9.pdb
+C:\Users\estar\source\repos\programacionFPII1.9\programacionFPII1.9\obj\Debug\net8.0-windows\programacionFPII1._9.Form1.resources
+C:\Users\estar\source\repos\programacionFPII1.9\programacionFPII1.9\obj\Debug\net8.0-windows\programacionFPII1.9.csproj.GenerateResource.cache
+C:\Users\estar\source\repos\programacionFPII1.9\programacionFPII1.9\obj\Debug\net8.0-windows\programacionFPII1.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estar\source\repos\programacionFPII1.9\programacionFPII1.9\obj\Debug\net8.0-windows\programacionFPII1.9.AssemblyInfoInputs.cache
+C:\Users\estar\source\repos\programacionFPII1.9\programacionFPII1.9\obj\Debug\net8.0-windows\programacionFPII1.9.AssemblyInfo.cs
+C:\Users\estar\source\repos\programacionFPII1.9\programacionFPII1.9\obj\Debug\net8.0-windows\programacionFPII1.9.csproj.CoreCompileInputs.cache
+C:\Users\estar\source\repos\programacionFPII1.9\programacionFPII1.9\obj\Debug\net8.0-windows\programacionFPII1.9.dll
+C:\Users\estar\source\repos\programacionFPII1.9\programacionFPII1.9\obj\Debug\net8.0-windows\refint\programacionFPII1.9.dll
+C:\Users\estar\source\repos\programacionFPII1.9\programacionFPII1.9\obj\Debug\net8.0-windows\programacionFPII1.9.pdb
+C:\Users\estar\source\repos\programacionFPII1.9\programacionFPII1.9\obj\Debug\net8.0-windows\programacionFPII1.9.genruntimeconfig.cache
+C:\Users\estar\source\repos\programacionFPII1.9\programacionFPII1.9\obj\Debug\net8.0-windows\ref\programacionFPII1.9.dll
