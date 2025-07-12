@@ -1,0 +1,8 @@
+C:\Users\estar\source\repos\programacionFPII1.40\programacionFPII1.40\obj\Debug\net8.0-windows\programacionFPII1._40.Form1.resources
+C:\Users\estar\source\repos\programacionFPII1.40\programacionFPII1.40\obj\Debug\net8.0-windows\programacionFPII1._40.Form2.resources
+C:\Users\estar\source\repos\programacionFPII1.40\programacionFPII1.40\obj\Debug\net8.0-windows\programacionFPII1._40.Form3.resources
+C:\Users\estar\source\repos\programacionFPII1.40\programacionFPII1.40\obj\Debug\net8.0-windows\programacionFPII1.40.csproj.GenerateResource.cache
+C:\Users\estar\source\repos\programacionFPII1.40\programacionFPII1.40\obj\Debug\net8.0-windows\programacionFPII1.40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estar\source\repos\programacionFPII1.40\programacionFPII1.40\obj\Debug\net8.0-windows\programacionFPII1.40.AssemblyInfoInputs.cache
+C:\Users\estar\source\repos\programacionFPII1.40\programacionFPII1.40\obj\Debug\net8.0-windows\programacionFPII1.40.AssemblyInfo.cs
+C:\Users\estar\source\repos\programacionFPII1.40\programacionFPII1.40\obj\Debug\net8.0-windows\programacionFPII1.40.csproj.CoreCompileInputs.cache
