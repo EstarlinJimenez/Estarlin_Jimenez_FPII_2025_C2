@@ -1,0 +1,16 @@
+C:\Users\estar\source\repos\programacionFPII1.50\programacionFPII1.50\bin\Debug\net8.0-windows\programacionFPII1.50.exe
+C:\Users\estar\source\repos\programacionFPII1.50\programacionFPII1.50\bin\Debug\net8.0-windows\programacionFPII1.50.deps.json
+C:\Users\estar\source\repos\programacionFPII1.50\programacionFPII1.50\bin\Debug\net8.0-windows\programacionFPII1.50.runtimeconfig.json
+C:\Users\estar\source\repos\programacionFPII1.50\programacionFPII1.50\bin\Debug\net8.0-windows\programacionFPII1.50.dll
+C:\Users\estar\source\repos\programacionFPII1.50\programacionFPII1.50\bin\Debug\net8.0-windows\programacionFPII1.50.pdb
+C:\Users\estar\source\repos\programacionFPII1.50\programacionFPII1.50\obj\Debug\net8.0-windows\programacionFPII1._50.Form1.resources
+C:\Users\estar\source\repos\programacionFPII1.50\programacionFPII1.50\obj\Debug\net8.0-windows\programacionFPII1.50.csproj.GenerateResource.cache
+C:\Users\estar\source\repos\programacionFPII1.50\programacionFPII1.50\obj\Debug\net8.0-windows\programacionFPII1.50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estar\source\repos\programacionFPII1.50\programacionFPII1.50\obj\Debug\net8.0-windows\programacionFPII1.50.AssemblyInfoInputs.cache
+C:\Users\estar\source\repos\programacionFPII1.50\programacionFPII1.50\obj\Debug\net8.0-windows\programacionFPII1.50.AssemblyInfo.cs
+C:\Users\estar\source\repos\programacionFPII1.50\programacionFPII1.50\obj\Debug\net8.0-windows\programacionFPII1.50.csproj.CoreCompileInputs.cache
+C:\Users\estar\source\repos\programacionFPII1.50\programacionFPII1.50\obj\Debug\net8.0-windows\programacionFPII1.50.dll
+C:\Users\estar\source\repos\programacionFPII1.50\programacionFPII1.50\obj\Debug\net8.0-windows\refint\programacionFPII1.50.dll
+C:\Users\estar\source\repos\programacionFPII1.50\programacionFPII1.50\obj\Debug\net8.0-windows\programacionFPII1.50.pdb
+C:\Users\estar\source\repos\programacionFPII1.50\programacionFPII1.50\obj\Debug\net8.0-windows\programacionFPII1.50.genruntimeconfig.cache
+C:\Users\estar\source\repos\programacionFPII1.50\programacionFPII1.50\obj\Debug\net8.0-windows\ref\programacionFPII1.50.dll
