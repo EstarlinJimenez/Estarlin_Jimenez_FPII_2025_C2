@@ -1,0 +1,16 @@
+C:\Users\estar\source\repos\Calculadora.1\Calculadora.1\bin\Debug\net8.0-windows\Calculadora.1.exe
+C:\Users\estar\source\repos\Calculadora.1\Calculadora.1\bin\Debug\net8.0-windows\Calculadora.1.deps.json
+C:\Users\estar\source\repos\Calculadora.1\Calculadora.1\bin\Debug\net8.0-windows\Calculadora.1.runtimeconfig.json
+C:\Users\estar\source\repos\Calculadora.1\Calculadora.1\bin\Debug\net8.0-windows\Calculadora.1.dll
+C:\Users\estar\source\repos\Calculadora.1\Calculadora.1\bin\Debug\net8.0-windows\Calculadora.1.pdb
+C:\Users\estar\source\repos\Calculadora.1\Calculadora.1\obj\Debug\net8.0-windows\Calculadora._1.Form1.resources
+C:\Users\estar\source\repos\Calculadora.1\Calculadora.1\obj\Debug\net8.0-windows\Calculadora.1.csproj.GenerateResource.cache
+C:\Users\estar\source\repos\Calculadora.1\Calculadora.1\obj\Debug\net8.0-windows\Calculadora.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estar\source\repos\Calculadora.1\Calculadora.1\obj\Debug\net8.0-windows\Calculadora.1.AssemblyInfoInputs.cache
+C:\Users\estar\source\repos\Calculadora.1\Calculadora.1\obj\Debug\net8.0-windows\Calculadora.1.AssemblyInfo.cs
+C:\Users\estar\source\repos\Calculadora.1\Calculadora.1\obj\Debug\net8.0-windows\Calculadora.1.csproj.CoreCompileInputs.cache
+C:\Users\estar\source\repos\Calculadora.1\Calculadora.1\obj\Debug\net8.0-windows\Calculadora.1.dll
+C:\Users\estar\source\repos\Calculadora.1\Calculadora.1\obj\Debug\net8.0-windows\refint\Calculadora.1.dll
+C:\Users\estar\source\repos\Calculadora.1\Calculadora.1\obj\Debug\net8.0-windows\Calculadora.1.pdb
+C:\Users\estar\source\repos\Calculadora.1\Calculadora.1\obj\Debug\net8.0-windows\Calculadora.1.genruntimeconfig.cache
+C:\Users\estar\source\repos\Calculadora.1\Calculadora.1\obj\Debug\net8.0-windows\ref\Calculadora.1.dll
